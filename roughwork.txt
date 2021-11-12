@@ -1,20 +1,20 @@
 Title
-insert team member names here
+Conor Knight,Brandon Cameron and Darragh Cunningham
 
 Elevator pitch 
-Describe your game in 30 seconds or less
+Cars but space
 ...
 World Background
 main differences in your game world
 ...
 Pillars
-3-4 fundementals of this game
+Cars, space, family and 
 ...
 30 second gameplay description
 describe what its like to play the essence of the game loop
 ...
 Features points
-key selling points of your game
+Vin Diesal
 ...
 Market analysis
-similar games , typical customer, expected sales
+No game is as good as this, chads will like it, it will make alot of money
