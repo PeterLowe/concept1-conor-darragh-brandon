@@ -5,13 +5,13 @@ Elevator pitch
 Cars but space
 ...
 World Background
-main differences in your game world
+It has Vin Diesal flying a car in space
 ...
 Pillars
-Cars, space, family and 
+Cars, space, family and Vin Diesal
 ...
 30 second gameplay description
-describe what its like to play the essence of the game loop
+Mad combat
 ...
 Features points
 Vin Diesal
