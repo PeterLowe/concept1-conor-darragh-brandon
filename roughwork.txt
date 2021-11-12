@@ -1,20 +1,21 @@
 Title
-insert team member names here
+Brandon, Conor, Darragh
 
 Elevator pitch 
-Describe your game in 30 seconds or less
+Like need for speed except cars are spaceships
 ...
 World Background
-main differences in your game world
+its is in the milkyway galaxy 
 ...
 Pillars
 3-4 fundementals of this game
+3d race enviroments, spectatcar tracks, space hazards, take and lading mechaincs
 ...
 30 second gameplay description
-describe what its like to play the essence of the game loop
+Racing aginst other playres in a spaceship car in space
 ...
 Features points
-key selling points of your game
+its in space. people like space
 ...
 Market analysis
-similar games , typical customer, expected sales
+space enthusiatists, elite dangerous
